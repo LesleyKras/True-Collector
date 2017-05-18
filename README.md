@@ -2,14 +2,13 @@
 3D Unity game to collect items around a world by completing puzzles.
 
 # Programming Course PRG08
-# Assignment
 
 # Current functionality included are:
 - Equipment System
-  > Weapon
-  > Offhand
-  > Helmet
-  > Armour
+  > Weapon,
+  > Offhand,
+  > Helmet,
+  > Armour,
   > Boots
 - Inventory System
 - 3D World
@@ -21,11 +20,11 @@
 - Armour
 - Ammo
 
-# Tasks completed
+# Patch Notes
 # May 18th
 - Flashlight
 - Basis for shooting with a gun
-  > Ammo
+  > Ammo,
   > Reloading
 - Throwing Rock
 
@@ -35,5 +34,5 @@
   > Opening a door
 - Collision
 - Added textures to environment behind door
-  > Small mountains
+  > Small mountains,
   > Grass Textures
