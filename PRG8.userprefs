@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Flashlight.cs">
+    <Files>
+      <File FileName="Assets/scripts/Player.cs" Line="72" Column="28" />
+      <File FileName="Assets/scripts/Interfaces/IHumanoid.cs" Line="7" Column="19" />
+      <File FileName="Assets/scripts/Equipment Manager/EquipmentManager.cs" Line="139" Column="44" />
+      <File FileName="Assets/scripts/Equipment Manager/Item.cs" Line="54" Column="19" />
+      <File FileName="Assets/scripts/Equipment Manager/Inventory.cs" Line="97" Column="7" />
+      <File FileName="Assets/scripts/Equipment Manager/ItemDatabase.cs" Line="19" Column="123" />
+      <File FileName="Assets/scripts/Flashlight.cs" Line="25" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
