@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public interface IHumanoid {
-	void Move();
+	void ChangeBehaviour();
 	void Attack(int i);
 	void Die();
 	void OnCollisionEnter(Collision col);
