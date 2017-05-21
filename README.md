@@ -43,6 +43,11 @@ TBA
 - Added Game as a Game Object so this can keep track of achievements later
   - Singleton Pattern
 - Added base for the player dying
+- Added base for a Main Menu
+  - Placeholder Start Button
+  - Placeholder Exit Button
+  - Placeholder Logo
+  - Placeholder Background
 
 
 # 18/5/2017
