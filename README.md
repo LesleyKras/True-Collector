@@ -4,7 +4,7 @@
 # Programming Course PRG08
 This game has been made in the Unity Engine and is required to run it.
 
-# Important Notes Halfway review 23/5/2017
+# Important Notes Halfway Review 23/5/2017
 baseUrl -> /Assets/scripts/
 - Interfaces are located in the baseURL/Interfaces/ folder
 - Static utility methods are used in the Singleton.cs file which is located in baseURL/Singleton/ folder
