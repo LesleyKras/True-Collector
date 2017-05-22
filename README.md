@@ -16,7 +16,7 @@ baseUrl -> /Assets/scripts/
 You can find the downloadable files at:
 - Windows
   - stud.hosted.hr.nl/0876190/games/True-Collector/Windows
-OSX
+- OSX
   - TBA
 
 # Current functionality included are:
