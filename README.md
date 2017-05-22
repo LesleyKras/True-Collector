@@ -13,7 +13,11 @@ baseUrl -> /Assets/scripts/
 - The remaining requirements for this halfway review can be found in most if not all script files
 
 # Installation Guide
-TBA
+You can find the downloadable files at:
+- Windows
+  - stud.hosted.hr.nl/0876190/games/True-Collector/Windows
+OSX
+  - TBA
 
 # Current functionality included are:
 - Equipment System
@@ -36,6 +40,20 @@ TBA
 - Ammo
 
 # Patch Notes
+# 22/5/2017
+- Temporarily disabled Main Menu background due to responsiveness
+- Added a controls page
+- Changed player into a 3D human
+  - Animations not functional yet
+  - Edited physics
+- Added functionality for shooting through a gun
+  - Bullets not yet visible but colission is
+  - Better shooting mechanics
+    - Can now support both single firing mode & full automatic
+- Added a better visible ammo counter
+- Fixed a bug where your weapon ammo could go over its maximum
+- Edited 3D world
+
 # 21/5/2017
 - Fixed a bug where the player could trip and shake the camera uncontrollably
 - Player can now alternate between Running an Walking by pressing 'N'
