@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "True-Collector-master.Plugins", "True-Collector-master.Plugins.csproj", "{58B8752E-3EFC-2CFE-451B-AB82B6F6FE6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "True-Collector-master", "True-Collector-master.csproj", "{B96596C9-978F-EB64-4837-7C0D8F5E1439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B8752E-3EFC-2CFE-451B-AB82B6F6FE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B8752E-3EFC-2CFE-451B-AB82B6F6FE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B8752E-3EFC-2CFE-451B-AB82B6F6FE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B8752E-3EFC-2CFE-451B-AB82B6F6FE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96596C9-978F-EB64-4837-7C0D8F5E1439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96596C9-978F-EB64-4837-7C0D8F5E1439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96596C9-978F-EB64-4837-7C0D8F5E1439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96596C9-978F-EB64-4837-7C0D8F5E1439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
