@@ -12,7 +12,7 @@ baseUrl -> /Assets/scripts/
 - Strategy Pattern can be found in the baseURL/Behaviours/ folder and is also used in the player.cs file in the baseURL folder
 - The remaining requirements for this halfway review can be found in most if not all script files
 
-# Installation Guide
+# Installation Guide Demo
 You can find the downloadable files at:
 - Windows
   - stud.hosted.hr.nl/0876190/games/true-collector/windows/
