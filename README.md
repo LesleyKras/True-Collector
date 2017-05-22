@@ -15,9 +15,9 @@ baseUrl -> /Assets/scripts/
 # Installation Guide
 You can find the downloadable files at:
 - Windows
-  - stud.hosted.hr.nl/0876190/games/True-Collector/windows/
+  - stud.hosted.hr.nl/0876190/games/true-collector/windows/
 - OSX
-  - stud.hosted.hr.nl/0876190/games/True-Collector/osx/
+  - stud.hosted.hr.nl/0876190/games/true-collector/osx/
 
 # Current functionality included are:
 - Equipment System
