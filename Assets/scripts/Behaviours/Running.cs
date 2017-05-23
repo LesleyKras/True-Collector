@@ -4,9 +4,10 @@ using System.Collections;
 public class Running : MonoBehaviour, IBehaviour {
     Player player;
     public float speed;
+	private IBehaviour behaviour;
 
     public Running(Player p){
-        //player = p;
+        player = p;
     }
 
     void Start() {
@@ -23,4 +24,9 @@ public class Running : MonoBehaviour, IBehaviour {
 
         transform.Translate(horizontalMovement, 0, verticalMovement);
     }
+
+	public void ChangeBehaviour() {
+		gameObject.AddComponent<Walking>();
+		Destroy(this);
+	}
 }

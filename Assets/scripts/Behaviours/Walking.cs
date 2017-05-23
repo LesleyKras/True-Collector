@@ -6,7 +6,7 @@ public class Walking : MonoBehaviour, IBehaviour {
     public float speed;
 
     public Walking(Player p) {
-        //player = p;
+        player = p;
     }
     
     void Start() {
@@ -24,4 +24,9 @@ public class Walking : MonoBehaviour, IBehaviour {
 
         transform.Translate(horizontalMovement, 0, verticalMovement);
     }
+
+	public void ChangeBehaviour() {
+		gameObject.AddComponent<Running>();
+		Destroy(this);
+	}
 }

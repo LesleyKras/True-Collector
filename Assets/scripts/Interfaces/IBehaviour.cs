@@ -3,4 +3,5 @@ using System.Collections;
 
 public interface IBehaviour {
     void Update();
+	void ChangeBehaviour();
 }
