@@ -40,6 +40,11 @@ You can find the downloadable files at:
 - Ammo
 
 # Patch Notes
+# 23/5/2017
+- Improved usage of Strategy Pattern to alternate between behaviours
+  - Running
+  - Walking
+
 # 22/5/2017
 - Temporarily disabled Main Menu background due to responsiveness
 - Added a controls page
