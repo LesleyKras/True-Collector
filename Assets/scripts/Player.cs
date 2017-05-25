@@ -19,10 +19,9 @@ public class Player : MonoBehaviour, IHumanoid{
 	public float Power;
 	public int Armour;
 
-	public float jumpSpeed = 8.0f;
+	private float jumpSpeed = 8.0f;
 
-	public bool jumped = false;
-    private bool isRunning = true;
+	private bool jumped = false;
 
 	public GUISkin skin;
     Game game;

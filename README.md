@@ -1,3 +1,10 @@
+# Code Review Lesley
+- Clear hierarchy
+- Some code is commented and making the code therefore easier to read
+- Changed some Encapsulation in player.cs
+- Good use of Inheritance and use of interfaces.
+- Good job!
+
 # True-Collector
 3D Unity game to collect items around a world by completing puzzles.
 
